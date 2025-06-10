@@ -1,0 +1,13 @@
+.card {
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 4px 4px 2px #0004;
+
+  &.accepted {
+    background-color: orange;
+  }
+
+  &.deployed {
+    background-color: green;
+  }
+}
