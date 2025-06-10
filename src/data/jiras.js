@@ -1,4 +1,4 @@
-export default jiras = [
+const jiras = [
   {
     Com: "00320",
     nº: 1,
@@ -103,3 +103,5 @@ export default jiras = [
     "Fecha subida": "12-06-2025",
   },
 ];
+
+export default jiras

@@ -12,6 +12,7 @@ export default function App() {
             index={jira.nº}
             accepted={jira.Aceptada}
             deployed={jira.Subida}
+            family={jira.Familia}
           />
         ))}
       </div>
